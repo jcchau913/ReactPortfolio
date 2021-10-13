@@ -1,0 +1,31 @@
+[
+    {
+        "id": "0",
+        "description": "Coding Quiz challenge",
+        "link": "",
+        "place": "",
+        "projectType": "personal",
+        "deployedUrl": "https://jcchau913.github.io/HW6_Web-API-Module_JS-Quiz/",
+        "githubUrl": "https://github.com/jcchau913/HW6_Web-API-Module_JS-Quiz",
+        "tags": [
+            "project"
+        ],
+        "title": "Coding Quiz Challenge",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/Clock.gif"
+    },
+    {
+        "id": "1",
+        "description": "Do pariatur nisi labore nisi dolor dolor elit in est pariatur dolore esse. Laborum cupidatat do culpa qui sit fugiat laboris culpa nulla consequat id. Reprehenderit quis magna irure irure excepteur deserunt irure.",
+        "link": "https://www.google.com",
+        "place": "",
+        "deployedUrl": "https://jcchau913.github.io/HW_8_Server_API_Weather/",
+        "githubUrl": "https://github.com/jcchau913/HW_8_Server_API_Weather",
+        "projectType": "personal",
+        "tags": [
+            "personal",
+            "project"
+        ],
+        "title": "Weather App",
+        "image": "https://openweathermap.org/img/wn/10d@2x.png"
+    }
+]

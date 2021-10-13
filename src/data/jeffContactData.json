@@ -1,0 +1,17 @@
+[
+    {
+        "platform": "github",
+        "hyperlink": "https://github.com/jcchau913",
+        "content": "My GitHub"
+    },
+    {
+        "platform": "resume",
+        "hyperlink": "https://docs.google.com/document/d/1W5ECKJ_fQ0Qbzh8SroclBQZrOjtDD6H2_W6TWV1xVjk/edit?usp=sharing",
+        "content": "My Resume"
+    },
+    {
+        "platform": "email-address",
+        "hyperlink": "mailto:jcchau913@gmail.com",
+        "content": "Email Me"
+    }
+]
